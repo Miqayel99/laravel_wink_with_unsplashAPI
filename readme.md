@@ -1,4 +1,4 @@
-<p align="center" ><img src="https://i.pinimg.com/736x/6f/82/7a/6f827a6b8463364e3f481b3ecf3b4c96.jpg" alt="wink logo" width="200px" height="200px"></p>
+<p align="center" ><img src="https://i.pinimg.com/736x/6f/82/7a/6f827a6b8463364e3f481b3ecf3b4c96.jpg" alt="wink logo" width="400px" height="400px"></p>
 
 Wink adds a nice UI where you can manage a publication of any size with posts, pages, tags, and authors.
 
